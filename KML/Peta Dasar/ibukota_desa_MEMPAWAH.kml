@@ -1,0 +1,5186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="ibukota_desa_MEMPAWAH">
+  <name>ibukota_desa_MEMPAWAH</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.250000</scale>
+      <Icon><href>Layer0_Symbol_513be60_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>ff000000</color>
+      <scale>0.666667</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>ibukota_desa_MEMPAWAH</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Hasil kegiatan pendatan toponimi oleh Provinsi Kalimantan Barat, update tahun 2021]]></description>
+    <Placemark id="ID_00000">
+      <name>Wajokhulu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>15</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Wajokhulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,275867</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,018412</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Wajokhulu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 33.121" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 1' 6.284" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27586683878,0.01841223584,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Wajokhilir</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>30</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Wajokhilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,230253</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,044654</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Wajokhilir</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 13' 48.911" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 2' 40.756" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.23025304294,0.04465448192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Jungkat</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>58</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Jungkat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,203781</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,063309</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Jungkat</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 13.613" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 3' 47.913" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20378145175,0.06330921085000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Sungaisungainipah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>83</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaisungainipah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,1887</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,076375</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaisungainipah</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 19.319" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 4' 34.952" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.18869972032,0.07637547435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Penitiluar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>147</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Penitiluar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,155894</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,127564</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Penitiluar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 21.218" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 7' 39.230" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.15589398632,0.12756390495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Sungaiburung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>172</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaiburung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,161487</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,164874</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaiburung</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 41.352" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 53.548" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.16148679728,0.16487447708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Paritbugis</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>179</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Paritbugis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,191973</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,154288</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Paritbugis</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 31.104" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 15.438" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.19197332181,0.15428819484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Penitidalam Satu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>181</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Penitidalam Satu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,19694</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,156133</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Penitidalam Satu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 48.985" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 22.079" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.196940371,0.1561330497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Penitibesar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>187</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Penitibesar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,20047</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,160311</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Penitibesar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 1.692" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 37.120" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20047005805,0.16031113805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Penitidalam Dua</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>199</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Penitidalam Dua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,212272</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,166751</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Penitidalam Dua</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 44.180" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 10' 0.303" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.21227229563,0.16675071018,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Kubupadi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>205</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Kubupadi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,401747</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,170186</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Kubupadi</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 24' 6.289" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 10' 12.668" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.40174688991,0.17018566444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Sungaipurunbesar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>207</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipurunbesar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,150059</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,193981</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaipurunbesar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 0.211" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 11' 38.333" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.15005864259,0.1939814299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Sungaipurunkecil</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>240</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipurunkecil</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,144802</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,21477</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaipurunkecil</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 8' 41.286" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 12' 53.171" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1448017473,0.2147696466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Peniraman</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>248</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Peniraman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,116821</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,232191</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Des aPeniraman</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 7' 0.554" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 13' 55.886" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.11682060898,0.23219059112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Nusapati</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>264</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Nusapati</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,092791</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,256195</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Nusapati</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 5' 34.047" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 15' 22.302" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.09279071762,0.2561948662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Sungaibakaubesarlaut</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>305</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibakaubesarlaut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,037601</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,294416</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaibakaubesarlaut</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 2' 15.364" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 17' 39.897" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.03760103416,0.29441592186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Sungaibatang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>306</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibatang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,057317</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,285902</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaibatang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 3' 26.342" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 17' 9.246" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.05731712588,0.28590176306,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Galang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>311</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Galang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,099387</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,289743</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Galang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 5' 57.794" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 17' 23.074" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.09938710363,0.28974279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Sungaibakaubesardarat</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>318</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibakaubesardarat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,046633</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,311769</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaibakaubesardarat</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 2' 47.880" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 18' 42.369" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.04663339671,0.31176915282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Sungairasau</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>323</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungairasau</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,081897</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,30447</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungairasau</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 4' 54.829" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 18' 16.090" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0818969239,0.30446957791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Paritbanjar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>345</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Paritbanjar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,01775</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,305633</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Paritbanjar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 1' 3.900" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 18' 20.280" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.01774988675,0.30563333481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Pasirpanjang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>354</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pasirpanjang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,974608</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,327587</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Pasirpanjang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 28.590" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 39.314" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.97460823908,0.32758732739,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Pasirpalemang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>363</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pasirpalemang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,974434</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,345237</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Pasirpalemang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 27.962" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 42.852" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.97443395496,0.34523653334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Antibar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>375</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Antibar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,970569</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,358762</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Antibar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 14.049" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 31.542" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.97056909509,0.35876163184,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Sejegi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>396</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,967494</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,374204</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sejegi</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 2.979" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 27.135" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96749402883,0.37420426482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Kepayang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>438</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Kepayang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,187179</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,337675</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Kepayang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 13.844" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 15.629" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.18717898742,0.33767482493,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Pakbulu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>445</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pakbulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,213551</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,338566</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Pakbulu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 48.785" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 18.836" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.21355126918,0.33856564299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Dema</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>454</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Dema</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,217818</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,335863</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Dema</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 13' 4.146" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 9.105" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.21781845606,0.33586260468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Anjungandalam</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>463</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Anjungandalam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,160937</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,361018</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Anjungandalam</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 39.374" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 39.664" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.16093712445,0.36101790405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Sambora</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>481</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sambora</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,280452</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,348914</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sambora</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 49.628" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 56.091" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.28045233531,0.34891421102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Kecurit</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>490</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Kecurit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,170796</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,378345</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Kecurit</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 10' 14.866" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 42.043" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.17079613124,0.37834535865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Benuang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>502</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Benuang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,275805</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,367497</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Benuang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 32.897" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 2.991" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2758047388,0.36749740428,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Terap</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>515</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Terap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,192019</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,391742</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Terap</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 31.267" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 23' 30.273" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.19201868541,0.39174248992,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Tohoilir</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>542</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Tohoilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,214224</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,42894</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Tohoilir</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 51.207" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 44.185" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2142241761,0.4289403743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Paklaheng</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>551</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Paklaheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,228697</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,419892</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Paklaheng</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 13' 43.310" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 11.611" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.22869726707,0.41989206227,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Pakutan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>557</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pakutan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,272226</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,426991</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Pakutan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 20.014" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 37.169" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27222619788,0.42699141392,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Sepang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>562</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sepang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,270573</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,429994</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sepang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 14.062" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 47.977" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27057267469,0.42999367017,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Kualasecapah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>612</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Kualasecapah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,967226</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,32594</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Kualasecapah</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 2.014" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 33.385" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96722600658,0.32594025414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Pasir</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>38</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>711</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pasir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,949221</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,394697</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Pasir</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 57.197" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 23' 40.908" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.94922138676,0.39469670799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Penimbung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>715</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Penimbung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,947134</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,408855</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Penimbung</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 49.683" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 24' 31.880" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.94713422307,0.40885542294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Sengkubang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>723</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sengkubang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,946114</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,430799</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sengkubang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 46.009" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 50.876" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.94611362384,0.43079877834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Malikan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>734</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Malikan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,942023</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,445399</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Malikan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 31.284" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 26' 43.437" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.94202320321,0.44539928165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Semudun</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>778</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Semudun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,937476</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,453526</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Semudun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 14.915" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 27' 12.694" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93747645128,0.45352622835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Mendalok</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>43</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>783</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mendalok</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,933774</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,46244</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Mendalok</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 1.585" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 27' 44.784" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93377366093,0.46243997123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Semparongparitraden</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>789</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Semparongparitraden</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,969546</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,463056</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Semparongparitraden</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 10.365" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 27' 47.003" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96954583567,0.46305645469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Sungaidungun</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>796</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaidungun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,922122</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,473729</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaidungun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 55' 19.639" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 28' 25.426" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.92212182057,0.47372945495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Sungailimau</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>811</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungailimau</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,912551</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,49255</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungailimau</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 54' 45.184" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 33.182" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91255122726,0.49255047033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Sungaikunyitdalam</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>835</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaikunyitdalam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,934833</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,494899</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaikunyitdalam</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 5.398" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 41.637" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93483270616,0.49489918115,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Sungaikunyithulu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>839</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaikunyithulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,956542</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,490385</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaikunyithulu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 23.550" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 25.387" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.95654180166,0.49038519422,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Sungaikunyitlaut</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>845</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaikunyitlaut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,911273</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,501148</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaikunyitlaut</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 54' 40.584" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 30' 4.134" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91127321419,0.50114830115,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Sungaibundunglaut</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>865</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibundunglaut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,914768</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,524313</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaibundunglaut</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 54' 53.166" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 31' 27.527" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91476834119,0.52431317062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Sungaiduri Dua</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>872</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaiduri Dua</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,917298</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,532162</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaiduri Dua</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 55' 2.274" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 31' 55.783" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91729840839,0.53216185898,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Bukitbatu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>877</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Bukitbatu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,946958</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,522425</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Bukitbatu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 49.048" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 31' 20.730" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.94695765917,0.52242487671,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Sungaiduri Satu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>53</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>890</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaiduri Satu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,925464</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,554343</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaiduri Satu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 55' 31.669" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 33' 15.635" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.92546371478,0.55434302931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Sekabuk</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>900</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sekabuk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,129915</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,499261</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sekabuk</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 7' 47.694" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 57.341" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.12991492234,0.49926136972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Pentek</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>919</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pentek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,152499</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,520391</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Pentek</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 8.998" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 31' 13.408" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.15249944939,0.52039124876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Bubun</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>939</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Bubun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,107206</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,563618</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Des aBubun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 6' 25.943" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 33' 49.025" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.10720626456,0.56361818183,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Amawang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>944</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Amawang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,140201</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,553854</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Amawang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 8' 24.725" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 33' 13.875" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.14020143175,0.55385423518,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Ansiap</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>962</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Ansiap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,232311</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,578217</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Ansiap</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 13' 56.319" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 34' 41.582" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.23231094,0.57821725522,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Suwakbarangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>981</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Kepala Desa</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Suwakbarangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,201662</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,658019</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Suwakbarangan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 5.982" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 39' 28.870" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20166164807,0.65801947472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Sungaipinyuh</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>274</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,074088</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,274105</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Lurah Sungaipinyuh</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 4' 26.716" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 16' 26.776" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.07408789294,0.27410458056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Sungaibakukecil</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>343</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibakukecil</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,002283</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,311815</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Kepala Desa Sungaibakukecil</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 0' 8.218" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 18' 42.534" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.00228273016,0.31181502364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Pasirwansalim</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>352</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pasirwansalim</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,969957</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,324819</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Lurah Pasirwansalim</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 11.843" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 29.350" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96995651828,0.32481934993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Pulaupedalaman</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>391</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pulaupedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,961253</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,37055</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Lurah Pulaupedalaman</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 40.510" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 13.980" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96125291369,0.37055002167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Anjunganmelancar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>461</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Anjunganmelancar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,164</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,360829</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Lurah Anjunganmelancar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 50.400" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 38.983" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.16400011731,0.36082863184,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Tanjung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>600</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Tanjung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,933213</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,331449</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Lurah Tanjung</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 55' 59.568" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 53.215" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93321343725,0.33144852793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Terusan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>698</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pemerintahan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Lurah</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,951293</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,367736</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor Lurah Terusan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 4.656" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 3.848" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.95129343105,0.36773550429,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
