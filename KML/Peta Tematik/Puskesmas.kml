@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Puskesmas_MEMPAWAH">
+  <name>Puskesmas_MEMPAWAH</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.250000</scale>
+      <Icon><href>Layer0_Symbol_a5cd220_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Puskesmas_MEMPAWAH</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Hasil kegiatan pendatan toponimi oleh Provinsi Kalimantan Barat, update tahun 2021]]></description>
+    <Placemark id="ID_00000">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>16</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Wajok Hulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,272094</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,020646</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasWajok Hulu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 19.539" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 1' 14.325" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27209410636,0.02064586312,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>18</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Wajok Hulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,271968</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,020772</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasWajok Hulu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 19.086" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 1' 14.781" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27196834786,0.02077246608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>79</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Jungkat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,193209</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,07076</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasJungkat</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 35.553" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 4' 14.736" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.19320903437,0.07076009580000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>182</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Penitibesar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,196347</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,157001</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasPenitibesar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 46.851" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 25.204" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.19634746506,0.15700110772,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>233</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipurun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,148549</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,200275</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasSungaipurun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 8' 54.776" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 12' 0.990" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.14854895877,0.20027488378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>245</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas Pembantu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Peniraman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,115985</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,23314</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Puskesmas PembantuPeniraman</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 6' 57.547" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 13' 59.304" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.11598516398,0.23313992986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>282</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,080815</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,275878</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesdesSungaipinyuh</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 4' 50.934" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 16' 33.161" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.08081494505,0.27587794021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>313</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Galang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,108099</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,292963</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesGalang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 6' 29.156" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 17' 34.668" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.10809901706,0.29296333419,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>326</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Posyandu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungairasau</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,094544</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,300294</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PosyanduSungairasau</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 5' 40.359" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 18' 1.060" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.09454407905,0.30029430624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>341</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibakau Kecil</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,004986</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,311011</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasSungaibakau Kecil</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 0' 17.951" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 18' 39.639" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.00498628019,0.31101082109,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>350</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pasirwansalim</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,971744</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,324232</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesdesPasirwansalim</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 18.278" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 27.235" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.97174389656,0.3242320072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>374</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Antibar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,971253</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,352659</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesdesAntibar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 16.511" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 9.571" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.97125300342,0.35265870384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>385</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Palembang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,004062</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,351527</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesdesPalembang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 0' 14.623" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 5.497" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.00406206761,0.35152688276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>403</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas Pembantu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Montonasam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,013721</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,376954</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Puskesmas PembantuMontonasam</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 0' 49.394" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 37.035" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.01372054357,0.3769543044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>446</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Dema</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,213174</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,339018</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesDema</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 47.426" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 20.464" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.21317392084,0.33901771689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>469</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Anjungan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,165787</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,363433</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesdesAnjungan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 56.833" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 48.360" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.16578706842,0.36343327622,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>482</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sambora</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,280362</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,349059</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesSambora</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 49.305" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 56.612" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.28036248134,0.34905888586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>496</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Posyandu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sarikanterap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,201004</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,378922</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PosyanduSarikanterap</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 3.614" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 44.118" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20100384975,0.37892171796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>506</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Dandangkecurit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,160644</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,386256</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesDandangkecurit</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 38.320" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 23' 10.521" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.16064444099,0.38625578907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>513</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Terap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,187663</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,390304</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesTerap</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 15.585" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 23' 25.093" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.18766250972,0.39030374462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>550</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Paklaheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,228598</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,419811</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesdesPaklaheng</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 13' 42.955" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 11.318" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.22859847564,0.41981065294,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>558</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Posyandu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Pak Utan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,272244</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,427417</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PosyanduPak Utan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 20.079" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 38.700" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27224406921,0.42741674828,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>564</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Takong</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,270501</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,430084</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasTakong</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 16' 13.803" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 25' 48.303" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.27050079098,0.43008408531,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>603</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Kualasecapah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,958326</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,326201</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesKualasecapah</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 29.972" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 34.322" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.95832561144,0.32620064474,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>615</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Tanjung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,933815</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,333745</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesTanjung</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 1.733" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 20' 1.483" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9338146871,0.33374516711,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>700</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,950754</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,368513</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasTerusan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 2.716" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 22' 6.647" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.95075438371,0.36851294662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>758</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>PuskSemudun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,939651</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,450019</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasPuskSemudun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 22.743" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 27' 0.068" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93965088338,0.45001877974,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>813</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>PuskSungaikunyit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,91203</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,494621</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasPuskSungaikunyit</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 54' 43.307" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 40.635" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91202967893,0.49462075374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>829</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas Pembantu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>PusSungaikunyit Hulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,94536</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,491476</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Puskesmas PembantuPusSungaikunyit Hulu</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 43.295" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 29.313" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.94535976264,0.4914757634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>914</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sadaniang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,15066</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,513727</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PuskesmasSadaniang</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 2.376" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 30' 49.416" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.15065998417,0.51372663927,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>932</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Poskesdes</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Kumpangpentek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,149844</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,538241</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PoskesdesKumpangpentek</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 8' 59.440" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 32' 17.667" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.14984434764,0.53824077689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Toponim Sarana Kesehatan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>945</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Sarana Kesehatan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Puskesmas Pembantu</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sangking</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,14004</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,554352</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Puskesmas PembantuSangking</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 8' 24.143" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 33' 15.665" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.14003959335,0.55435152161,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

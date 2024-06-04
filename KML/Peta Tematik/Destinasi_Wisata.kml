@@ -1,0 +1,6249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Destinasi_wisata">
+  <name>Destinasi_wisata</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.250000</scale>
+      <Icon><href>Layer0_Symbol_aa4ee58_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Destinasi_wisata</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Data lokasi destinasi Wisata, diambil dari dokumen RIPARDA Kabupaten Mempawah tahun 2016.]]></description>
+    <Placemark id="ID_00000">
+      <name>Pulau Penibung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Penibung</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Penibung</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Penibung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9374050429227,0.4027307061467633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Pantai Kijing</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pantai Kijing</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pantai Kijing</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Kunyit Laut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9075369577735,0.5058801183987696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Pulau Temajo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Temajo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Temajo</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Kunyit Laut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.8560574538611,0.5053460857502871,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Tangga Seribu Gunung Seliung</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tangga Seribu Gunung Seliung</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Tangga Seribu Gunung Seliung</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0865880470924,0.2744449367336827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Gua Maria Bernadette</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gua Maria Bernadette</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Gua Maria Bernadette</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sepang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2334023186621,0.4235411944057555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Air Terjun Sambora</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Air Terjun Sambora</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Air Terjun Sambora</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sambora</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2941510054049,0.3519655715593573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Jungkat Beach</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Jungkat Beach</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Jungkat Beach</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Jungkat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.191583207081,0.06442583277930501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Pulau Setinjang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Setinjang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Setinjang</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>belum diketahui masuk desa/kelurahan mana</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.7438399998187,0.3659602072736128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Pulau Datuk</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Datuk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Datuk</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>belum diketahui masuk desa/kelurahan mana</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.6051349076612,0.1230501093515594,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Pulau Pengiki Besar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Pengiki Besar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Pengiki Besar</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>belum diketahui masuk desa/kelurahan mana</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td>dalam Gazeteer toponimi BIG masuk wilayah Provinsi Riau Kepulauan</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.0418366050745,0.2477464025764783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Pulau Pengiki Kecil</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Pengiki Kecil</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Pengiki Kecil</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>belum diketahui masuk desa/kelurahan mana</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td>dalam Gazeteer toponimi BIG masuk wilayah Provinsi Riau Kepulauan</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.0299654699954,0.239974485398967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Pulau Damar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Damar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Damar</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>belum diketahui masuk desa/kelurahan mana</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.7833388517849,0.4068370926392503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Pulau Panjang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Panjang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Panjang</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2095515606779,0.03987436584479084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Pulau Bumin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Bumin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Bumin</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2378808643981,0.02571059064835662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Pulau Baru</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Baru</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Baru</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2473874057883,0.02169107741006698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Pulau Babi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pulau Babi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pulau Babi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2294402164392,0.03081527602918292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Mangrove Park Konservasi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Mangrove Park Konservasi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Mangrove Park Konservasi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9459661170923,0.3974220204531835,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Pantai Bedenyut</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pantai Bedenyut</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pantai Bedenyut</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2268543138926,0.03904669417715095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Air Terjun Tudong Saji</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Air Terjun Tudong Saji</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Air Terjun Tudong Saji</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Segedong</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Peniti Dalam II</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2871806076305,0.228265057735185,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Bukit Sadaniang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Sadaniang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Bukit Sadaniang</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pentek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1395078723043,0.5216031948579947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Bukit Sekabuk</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bukit Sekabuk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Bukit Sekabuk</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sekabuk</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1204944114571,0.5245880993748893,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>Wisata Mangrove</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wisata Mangrove</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Wisata Mangrove</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0702910498015,0.2632024139364548,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Riam Sekawan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Riam Sekawan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Riam Sekawan</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2466565046522,0.4189163967944034,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Danau Tapal Galong</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Danau Tapal Galong</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Danau Tapal Galong</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2384848025124,0.4001563066389591,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Danau Malikian</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Danau Malikian</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Danau Malikian</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sepang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2533056655504,0.443418650704834,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Riam Ampar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Riam Ampar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Riam Ampar</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Utan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2983284024895,0.4098834266611711,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Putlong</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Putlong</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Putlong</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Utan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2838287736535,0.4168191153447646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Gua Kame</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gua Kame</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Gua Kame</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Utan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2914385755283,0.3967220956485094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Air Terjun Pak Utan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Air Terjun Pak Utan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Air Terjun Pak Utan</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Utan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2988614328012,0.4013685558041614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Sungai Sibo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sungai Sibo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Sungai Sibo</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2572977159892,0.4063625038106967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00030">
+      <name>Riam Pinggan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Riam Pinggan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Riam Pinggan</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Benuang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.3071870619493,0.3778258304578014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00031">
+      <name>Riam Jungsen</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Riam Jungsen</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>31</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Riam Jungsen</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Benuang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.3065939654929,0.3721430046005579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00032">
+      <name>Riam Manggong</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Riam Manggong</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>32</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Riam Manggong</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Benuang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.3126543366089,0.3740224649849198,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00033">
+      <name>Danau Nempong</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Danau Nempong</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>33</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Danau Nempong</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Benuang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2940554270402,0.3783786414832103,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00034">
+      <name>Tangga Batu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Tangga Batu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Tangga Batu</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2489917166772,0.384686188629691,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00035">
+      <name>Pagung Belanda</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pagung Belanda</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pagung Belanda</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2447165417555,0.3704730139220631,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00036">
+      <name>Danau Tebu Dusun Telayar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Danau Tebu Dusun Telayar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>36</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Danau Tebu Dusun Telayar</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Alam</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.037098494146,0.3917061849076217,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00037">
+      <name>Istana Kraton Amantubillah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Istana Kraton Amantubillah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>37</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Istana Kraton Amantubillah</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pulau Pedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9609764285078,0.3711635022820321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00038">
+      <name>Masjid Jamiathul Khair</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Masjid Jamiathul Khair</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>38</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Masjid Jamiathul Khair</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pulau Pedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9604300944858,0.3702423608533624,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00039">
+      <name>Benteng Kota Batu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Benteng Kota Batu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>39</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Benteng Kota Batu</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pulau Pedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9612376577645,0.3718692757429599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00040">
+      <name>Rumah Adat Melayu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Adat Melayu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Adat Melayu</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Mendalok</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9447428341237,0.473902178810384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00041">
+      <name>Panyugu Galumpakng</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Panyugu Galumpakng</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Panyugu Galumpakng</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Kecurit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1784953175482,0.3783475304785994,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00042">
+      <name>Nek Kebak</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Nek Kebak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Nek Kebak</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.213354508807,0.39566348273497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00043">
+      <name>Panyugu Bukit Badayu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Panyugu Bukit Badayu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>43</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Panyugu Bukit Badayu</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Toho Ilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2028705974876,0.4411724066190778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00044">
+      <name>Rumah Adat Dayak</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Adat Dayak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Adat Dayak</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2356170899262,0.4121833477370642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00045">
+      <name>Rumah Adat Bugis</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Adat Bugis</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>45</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Adat Bugis</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2589384850595,0.06082123441224601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00046">
+      <name>Rumah Budaya Melayu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Budaya Melayu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>46</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Budaya Melayu</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9536891601527,0.366398030810724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00047">
+      <name>Rumah Peninggalan Belanda</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Peninggalan Belanda</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>47</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Peninggalan Belanda</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Peniraman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1239272768977,0.2434039120751484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00048">
+      <name>Rumah Adat Dayak</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Adat Dayak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>48</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Adat Dayak</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Budaya</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Kepayang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1862139294371,0.3490487593278761,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00049">
+      <name>Rumah Adat Dayak</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Adat Dayak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>49</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Adat Dayak</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pentek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1493594857917,0.5273183023127992,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00050">
+      <name>Makam Opu Daeng Manambon</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Opu Daeng Manambon</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Opu Daeng Manambon</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0230996984418,0.4038212279144965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00051">
+      <name>Makam Raja-raja Mempawah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Raja-raja Mempawah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Raja-raja Mempawah</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pulau Pedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9614472991597,0.3711056702129776,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00052">
+      <name>Makam Habib Husin Alkadrie</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Habib Husin Alkadrie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>52</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Habib Husin Alkadrie</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9645914980765,0.3780678521919906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00053">
+      <name>Pekong La Tai Pak</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pekong La Tai Pak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>53</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pekong La Tai Pak</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0743804696004,0.2776704782311612,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00054">
+      <name>Gua Maria Ratu</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gua Maria Ratu</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>54</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Gua Maria Ratu</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1810628539028,0.3899199611155403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00055">
+      <name>Gua Maria Anjongan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Gua Maria Anjongan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>55</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Gua Maria Anjongan</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Kepayang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1873897296791,0.3572257188547155,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00056">
+      <name>Makam Patih Patinggi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Patih Patinggi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Patih Patinggi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sepang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2656500501153,0.4545712324273242,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00057">
+      <name>Goa Maria Lembah Rivotorto</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Goa Maria Lembah Rivotorto</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>57</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Goa Maria Lembah Rivotorto</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terap</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2044235621555,0.3807059448825012,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00058">
+      <name>Makam Panembahan Adinata</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Panembahan Adinata</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>58</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Panembahan Adinata</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9702595923131,0.3781660922705984,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00059">
+      <name>Makam Sheik Hafal (Syeikh Muttabi'in)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Sheik Hafal (Syeikh Muttabi'in)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>59</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Sheik Hafal (Syeikh Muttabi'in)</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9719665706302,0.3695232485143297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00060">
+      <name>Makam Syeikh Mugarrabbin Al Qatiri</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Syeikh Mugarrabbin Al Qatiri</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Syeikh Mugarrabbin Al Qatiri</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9714436058113,0.3703125747419582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00061">
+      <name>Makam Keramat Jin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Keramat Jin</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>61</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Keramat Jin</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9799294299935,0.3770575511211655,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00062">
+      <name>Makam Keramat Songkok</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Keramat Songkok</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>62</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Keramat Songkok</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.980939583091,0.3761008766604176,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00063">
+      <name>Makam Opu Berahima</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Opu Berahima</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>63</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Opu Berahima</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9697718578953,0.3721510394909828,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00064">
+      <name>Makam Imam Kulat</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Imam Kulat</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>64</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Imam Kulat</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pulau Pedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9632372230038,0.3714318473989719,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00065">
+      <name>Makam Daeng Talibe</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Daeng Talibe</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>65</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Daeng Talibe</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9459496355957,0.3749239861895086,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00066">
+      <name>Makam Syekh Ali Asyagaf</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Syekh Ali Asyagaf</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>66</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Syekh Ali Asyagaf</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir Palembang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0221347187846,0.3537534340531449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00067">
+      <name>Makam Keramat Kepiting</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Keramat Kepiting</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>67</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Keramat Kepiting</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir Panjang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9740194915156,0.3272165778942408,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00068">
+      <name>Makam Wan Salim</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Wan Salim</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>68</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Wan Salim</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir Panjang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9740786944376,0.3282333030557341,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00069">
+      <name>Makam Keramat Suduk-suduk</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Keramat Suduk-suduk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>69</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Keramat Suduk-suduk</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir Panjang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9755323747385,0.3394443668409301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00070">
+      <name>Makam Wak Tapak (Sheikh Abdurrahman)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Wak Tapak (Sheikh Abdurrahman)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Wak Tapak (Sheikh Abdurrahman)</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Tanjung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9360387976374,0.3395794919030213,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00071">
+      <name>Makam Keramat Siti Sa'diah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Keramat Siti Sa'diah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>71</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Keramat Siti Sa'diah</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Tanjung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9371074932692,0.3424503744101582,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00072">
+      <name>Makam Ratu Intan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Ratu Intan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>72</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Ratu Intan</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Parit Banjar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0224899217834,0.3084207525029951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00073">
+      <name>Makam Panembahan Senggauk</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Panembahan Senggauk</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>73</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Panembahan Senggauk</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pentek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1486789582132,0.523579757380202,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00074">
+      <name>Makam Daeng Fatima</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Makam Daeng Fatima</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>74</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Makam Daeng Fatima</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Religi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Kunyit Laut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.8482824016494,0.4972080881953317,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00075">
+      <name>Kelapa Empat</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kelapa Empat</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>75</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Kelapa Empat</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Duri II</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9193272588517,0.5427139864980443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00076">
+      <name>Rumah Makan dan Pemancingan Gravela</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Makan dan Pemancingan Gravela</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>76</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Makan dan Pemancingan Gravela</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Nipah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td>tutup</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.175655064992,0.09027251294194895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00077">
+      <name>Rumah Makan Pengkang</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Makan Pengkang</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>77</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Makan Pengkang</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Peniti Luar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1605119452264,0.149927408117172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00078">
+      <name>Rumah Makan Gravitasi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Makan Gravitasi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>78</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Makan Gravitasi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Segedong</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Burung</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1589668410563,0.1542338296756472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00079">
+      <name>Rumah Makan Pak Wahab</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Makan Pak Wahab</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>79</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Makan Pak Wahab</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir Wan Salim</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9692556825408,0.324569026626877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00080">
+      <name>Rumah Makan Pedalaman</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Makan Pedalaman</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>80</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Makan Pedalaman</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pulau Pedalaman</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.961552430929,0.3700829697419628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00081">
+      <name>Rumah Makan Bestari</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Rumah Makan Bestari</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>81</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Rumah Makan Bestari</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Tengah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td>tidak ada lagi</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9621032375464,0.3588358029998422,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00082">
+      <name>Pondok Makan Koppel</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pondok Makan Koppel</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>82</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pondok Makan Koppel</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9596788459543,0.3693713016901882,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00083">
+      <name>Terminal Mempawah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Terminal Mempawah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>83</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Terminal Mempawah</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9613098663326,0.358346211110118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00084">
+      <name>Kelapa Empat Beach</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kelapa Empat Beach</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>84</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Kelapa Empat Beach</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Duri II</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9191672571249,0.541095245045832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00085">
+      <name>Terminal Sungai Pinyuh</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Terminal Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>85</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Terminal Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Kuliner</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0749085039631,0.2773549070637406,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00086">
+      <name>Robo-robo</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Robo-robo</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>86</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Robo-robo</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timjur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir Wan Salim</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9689154548913,0.3210035887709857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00087">
+      <name>Karapan Sapi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Karapan Sapi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>87</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Karapan Sapi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Rasau</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0937214503219,0.2996377789246338,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00088">
+      <name>Cap Go Meh</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Cap Go Meh</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>88</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Cap Go Meh</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0742195417153,0.2776250648522206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00089">
+      <name>Naik Dango</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Naik Dango</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>89</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Naik Dango</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Kepayang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1861222060623,0.3490468044710649,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00090">
+      <name>Naik Dango</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Naik Dango</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>90</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Naik Dango</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pentek</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1493663535218,0.5232020128921915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00091">
+      <name>Sedekah Bumi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sedekah Bumi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>91</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Sedekah Bumi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sejegi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0080288886702,0.3845424007440387,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00092">
+      <name>Sedekah Bumi</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Sedekah Bumi</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>92</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Sedekah Bumi</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sambora</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2795149253788,0.3556104761674982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00093">
+      <name>Anjongan Melancar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Anjongan Melancar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>93</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Anjongan Melancar</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Anjungan Melancar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1565987994316,0.3438121182294161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00094">
+      <name>Festival Sahur-sahur</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Festival Sahur-sahur</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>94</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Festival Sahur-sahur</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Event Unggulan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.961507514419,0.3654025481365817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00095">
+      <name>Agrowisata Nenas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Agrowisata Nenas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>95</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Agrowisata Nenas</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Agro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Galang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1068021164852,0.2920512819105639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00096">
+      <name>Agrowisata</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Agrowisata</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>96</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Agrowisata</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Agro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Bakau Besar Darat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0563002452778,0.3160315347236284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00097">
+      <name>Agrowisata Kebun Buah Naga</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Agrowisata Kebun Buah Naga</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>97</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Agrowisata Kebun Buah Naga</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Agro</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Segedong</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Sungai Purun Besar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1703611806393,0.1932132011889578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00098">
+      <name>Pantai Kuala Secapah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pantai Kuala Secapah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>98</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Pantai Kuala Secapah</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Minat Khusus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Kuala Secapah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9645781008109,0.3158653277648573,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00099">
+      <name>Wisata Nusantara</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Wisata Nusantara</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>99</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Wisata Nusantara</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Minat Khusus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Pasir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9453280767141,0.3978271511332341,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00100">
+      <name>Hutan Tanaman Rakyat</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Hutan Tanaman Rakyat</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>100</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Hutan Tanaman Rakyat</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Minat Khusus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2953587091622,0.1253379038903511,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00101">
+      <name>Stasiun Pengamat Dirgantara</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Stasiun Pengamat Dirgantara</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>101</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Nomor</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Destinasi</td>
+<td>Stasiun Pengamat Dirgantara</td>
+</tr>
+<tr>
+<td>Jenis</td>
+<td>Wisata Minat Khusus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Kecamatan</td>
+<td>Jongkat</td>
+</tr>
+<tr>
+<td>Desa</td>
+<td>Wajok Hulu</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Keterangan</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.336933037511,0.04200322577655261,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

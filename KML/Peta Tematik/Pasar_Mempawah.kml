@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Pasar_MEMPAWAH">
+  <name>Pasar_MEMPAWAH</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.250000</scale>
+      <Icon><href>Layer0_Symbol_12bb2720_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Pasar_MEMPAWAH</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Hasil kegiatan pendatan toponimi oleh Provinsi Kalimantan Barat, update tahun 2021]]></description>
+    <Placemark id="ID_00000">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>63</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Jungkat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,201527</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,064774</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarJungkat</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 5.497" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 3' 53.187" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20152684329,0.06477406977,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>188</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Peniti Besar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,201117</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,160682</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarPeniti Besar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 4.020" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 38.455" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20111675334,0.16068195101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>212</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaibesar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,1511</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,19966</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarSungaibesar</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 3.960" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 11' 58.777" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.15109993971,0.199660279,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>241</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipurun Kecil</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,142754</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,215131</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarSungaipurun Kecil</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 8' 33.914" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 12' 54.472" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.14275379315,0.21513109672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>285</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaipinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,074635</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,277297</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarSungaipinyuh</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 4' 28.687" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 16' 38.268" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0746352662,0.27729655599,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>667</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,961533</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,363507</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarMempawah</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 41.519" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 48.624" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9615329266,0.36350672206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>761</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Semudun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,938555</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,45161</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarSemudun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 18.797" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 27' 5.795" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93855473301,0.45160975688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Toponim Perekonomian dan Perdagangan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>816</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Perekonomian dan Perdagangan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Pasar</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaikunyit Laut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,911589</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,496384</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>PasarSungaikunyit Laut</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 54' 41.721" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 46.981" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91158905519,0.49638365878,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="RTH_Kab._Mempawah.kmz">
+  <name>RTH Kab. Mempawah.kmz</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle10">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ffe4f5bc</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="GroupLayer0">
+    <name>RTH Kab. Mempawah</name>
+    <Snippet></Snippet>
+  <Folder id="FeatureLayer1">
+    <name>Taman Mempawah</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_10000">
+      <name>Taman Benteng</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Benteng</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Benteng</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,002816</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,339267</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.946489688,0.3740299710000272,0 108.946325657,0.3731820960000505,0 108.947082762,0.3730886560000499,0 108.9470968900001,0.3730991890000723,0 108.9470881660001,0.3731248410000489,0 108.9470144850001,0.3731834420000268,0 108.9468378480001,0.373328979000064,0 108.9467253560001,0.3734756300000299,0 108.9466517290001,0.3736241760000212,0 108.946592513,0.3737617990000217,0 108.9465456340001,0.3739151220000281,0 108.946521745,0.3740125620000754,0 108.946508925,0.3740426810000486,0 108.9464943300001,0.3740428000000406,0 108.946489688,0.3740299710000272,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10001">
+      <name>Taman Pasar Air Mancur</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Pasar Air Mancur</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Pasar Air Mancur</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,000831</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,049953</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.960913115,0.3625489280000238,0 108.9610637360001,0.3625248380000698,0 108.961118738,0.3627763270000628,0 108.9609596980001,0.3628043240000238,0 108.960913115,0.3625489280000238,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10002">
+      <name>Taman Water Front</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Water Front</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Water Front</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,001433</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,064874</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.9610953850001,0.3618523330000585,0 108.961178427,0.3618314150000401,0 108.961186813,0.3618584390000592,0 108.9611732850001,0.3618623800000478,0 108.961201884,0.3619500360000529,0 108.9612223770001,0.3620358490000513,0 108.9612515360001,0.3620802310000499,0 108.961267321,0.3621086800000626,0 108.9612740780001,0.3621401060000267,0 108.961273899,0.362171533000037,0 108.9612691840001,0.362222809000059,0 108.961291637,0.3623002330000418,0 108.9612994300001,0.3623207760000469,0 108.9613045760001,0.362359328000025,0 108.961310143,0.3624031910000554,0 108.9613229700001,0.3624030860000289,0 108.9613288190001,0.3624310260000243,0 108.9612922170001,0.3624380900000688,0 108.961240251,0.3624425930000257,0 108.9610953850001,0.3618523330000585,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10003">
+      <name>Taman Kodim</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Kodim</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Kodim</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,00062</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,024864</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.9587006960001,0.360537407000038,0 108.958810752,0.3604297290000318,0 108.9588315840001,0.3604217360000348,0 108.9588517280001,0.36042545600003,0 108.9588567530001,0.360438929000054,0 108.958859428,0.360459431000038,0 108.9588741850001,0.3605395900000303,0 108.9588830270001,0.3605914400000643,0 108.958889759,0.3606334140000627,0 108.9587006960001,0.360537407000038,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10004">
+      <name>Taman Terminal</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Terminal</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Terminal</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,002865</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,519049</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.9609165030001,0.3583463400000255,0 108.961456135,0.3578324470000211,0 108.9616219870001,0.3579720690000272,0 108.9616617230001,0.3579969880000249,0 108.9618047390001,0.3580492260000483,0 108.961976715,0.3580715120000377,0 108.9619636900001,0.3585372160000588,0 108.9609165030001,0.3583463400000255,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10005">
+      <name>Taman Tugu Tani</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Tugu Tani</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Tugu Tani</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,000957</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,060614</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.9617282280001,0.3575191380000433,0 108.961731893,0.3575037830000269,0 108.9617528650001,0.3574806190000572,0 108.9617897900001,0.357440653000026,0 108.9618851150001,0.3573361170000453,0 108.961930651,0.357285202000071,0 108.961966036,0.3572541770000726,0 108.961985923,0.3572492920000627,0 108.9619988740001,0.3572501580000562,0 108.962011213,0.3572559010000305,0 108.9620192,0.3572694810000598,0 108.962020603,0.3572876150000752,0 108.962001452,0.3574536540000395,0 108.9619948330001,0.3575265150000746,0 108.9619855230001,0.3575397470000325,0 108.9619530450001,0.3575413190000631,0 108.961806805,0.3575322910000409,0 108.9617404030001,0.3575292700000432,0 108.9617282280001,0.3575191380000433,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10006">
+      <name>Taman Bestari</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Bestari</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Bestari</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,004824</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,368737</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.96250833,0.356691167000065,0 108.9627589890001,0.3563812590000452,0 108.963200568,0.3558798240000556,0 108.9635021870001,0.3555275100000586,0 108.963698046,0.355305478000048,0 108.9637225560001,0.3553272400000651,0 108.9636937490001,0.3553586680000649,0 108.9636684270001,0.3554124570000567,0 108.9636293500001,0.3554627820000746,0 108.9635737350001,0.3555218760000685,0 108.9635281590001,0.3555611590000467,0 108.9634816700001,0.3556094270000472,0 108.9634301550001,0.3556707940000479,0 108.963367008,0.3557501530000309,0 108.963296713,0.3558352890000265,0 108.963217721,0.3559331730000395,0 108.963140938,0.3560376180000731,0 108.9630685800001,0.356136933000073,0 108.9629478080001,0.3563269240000295,0 108.9628294270001,0.3565736140000695,0 108.9627131550001,0.3568478460000506,0 108.962599421,0.3571644330000368,0 108.9624975850001,0.3571894450000741,0 108.962412214,0.3571828730000561,0 108.9623739,0.3571623030000524,0 108.962344967,0.3571210450000422,0 108.9623064740001,0.3569549670000356,0 108.96250833,0.356691167000065,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10007">
+      <name>Taman Adipura dan Mempawah (Eks Asrama Kodim)</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Adipura dan Mempawah (Eks Asrama Kodim)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Adipura dan Mempawah (Eks Asrama Kodim)</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,006927</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>2,551021</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.963699256,0.3553032560000702,0 108.963836798,0.3551103160000366,0 108.9639016350001,0.3549757890000365,0 108.963939387,0.3548489670000663,0 108.9639672860001,0.3547170290000281,0 108.9639868300001,0.3545482310000239,0 108.963991746,0.3543028240000581,0 108.9639702380001,0.3540377880000278,0 108.9641800540001,0.35394528300003,0 108.9639443770001,0.353763223000044,0 108.9639234520001,0.3535643200000322,0 108.9655304920001,0.3533428190000336,0 108.9655587600001,0.3545172260000413,0 108.9654765400001,0.3545374170000741,0 108.9652343850001,0.3545883470000604,0 108.965083254,0.3546254630000476,0 108.964940465,0.3546690700000568,0 108.9647777500001,0.3547064520000731,0 108.9645872580001,0.3547705090000477,0 108.9644207300001,0.3548447200000737,0 108.9641064150001,0.3550455790000342,0 108.9638281540001,0.3552380550000294,0 108.9637243860001,0.3553256520000332,0 108.963699256,0.3553032560000702,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10008">
+      <name>Taman Segitiga Air Mancur</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Segitiga Air Mancur</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Segitiga Air Mancur</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,000654</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,024553</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.96414214,0.3539384090000226,0 108.9639692530001,0.354013243000054,0 108.9639486990001,0.3537914920000276,0 108.96414214,0.3539384090000226,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10009">
+      <name>Taman Kuala Secapah II (Tugu Hiu)</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Kuala Secapah II (Tugu Hiu)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Kuala Secapah II (Tugu Hiu)</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,00126</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,07409</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.967297397,0.3297303610000313,0 108.96758592,0.3297050080000758,0 108.967264119,0.3301503330000628,0 108.967297397,0.3297303610000313,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10010">
+      <name>Taman Kuala Secapah</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Kuala Secapah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Kuala Secapah</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,002066</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,19551</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.968102388,0.3255818140000315,0 108.9679287000001,0.325635438000063,0 108.967771584,0.3256980540000427,0 108.967682972,0.3257511450000266,0 108.9676146530001,0.325815455000054,0 108.967536613,0.325888735000035,0 108.9674664870001,0.3259652070000243,0 108.9674157160001,0.3260370700000408,0 108.9674214390001,0.3259231480000722,0 108.96744083,0.3257838400000423,0 108.9674916120001,0.3256687310000643,0 108.967568241,0.3255730720000543,0 108.9676990790001,0.3254762300000493,0 108.9678277100001,0.3254350080000563,0 108.9680281910001,0.3253837000000317,0 108.968102388,0.3255818140000315,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10011">
+      <name>Taman Kuale</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Kuale</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Kuale</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,003554</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,405099</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 108.96907544,0.3252544560000388,0 108.969066834,0.3250023740000643,0 108.969353288,0.3249013160000231,0 108.969551283,0.3248202460000584,0 108.969717986,0.3247374130000367,0 108.9698698000001,0.3246499570000196,0 108.9700819390001,0.324518180000041,0 108.9702774690001,0.3243890940000256,0 108.9702971680001,0.3243805660000589,0 108.9703234450001,0.3243706760000578,0 108.9703355010001,0.324379150000027,0 108.9703238690001,0.324396236000041,0 108.9703102030001,0.3244091740000385,0 108.9702865670001,0.3244339040000455,0 108.9702354670001,0.3244860590000371,0 108.9701651930001,0.3245588440000233,0 108.9700588840001,0.324673525000037,0 108.9699293200001,0.3248276350000197,0 108.969786803,0.3249324280000678,0 108.969744855,0.3250269670000421,0 108.969717491,0.3251615740000489,0 108.9696930810001,0.3252824760000408,0 108.96967262,0.3253252540000631,0 108.9696538890001,0.3253372990000685,0 108.9696143790001,0.3252919040000393,0 108.969551396,0.325208602000032,0 108.969483644,0.3251738780000437,0 108.9693681420001,0.3252090870000757,0 108.9692474880001,0.325239047000025,0 108.96907544,0.3252544560000388,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10012">
+      <name>Taman Pinyuh</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Pinyuh</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Pinyuh</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,000751</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,026653</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 109.0743094960001,0.2781452230000241,0 109.0745407620001,0.277950626000063,0 109.0745657130001,0.2779473000000507,0 109.0745838650001,0.2779581020000705,0 109.0745979370001,0.2779925630000548,0 109.0746032530001,0.27802538800006,0 109.0745991300001,0.2780486290000681,0 109.074590662,0.2780605410000589,0 109.0745621920001,0.2780744950000553,0 109.0743094960001,0.2781452230000241,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_10013">
+      <name>Taman Anjungan</name>
+      <Snippet><![CDATA[ ]]></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Taman Anjungan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Name</td>
+<td>Taman Anjungan</td>
+</tr>
+<tr>
+<td>FolderPath</td>
+<td>RTH Kab. Mempawah.kmz/RTH Kab. Mempawah/Taman Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SymbolID</td>
+<td>0</td>
+</tr>
+<tr>
+<td>AltMode</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Base</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Clamped</td>
+<td>-1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Extruded</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Snippet</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PopupInfo</td>
+<td></td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0,00125</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hektar</td>
+<td>0,075144</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle10</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 109.1652021260001,0.3624873670000284,0 109.1652995950001,0.3624692920000712,0 109.1653768630001,0.3624377900000582,0 109.1654797800001,0.3623711240000489,0 109.1653773460001,0.3627676890000657,0 109.1650816410001,0.3624777470000708,0 109.1652021260001,0.3624873670000284,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  </Folder>
+</Document>
+</kml>

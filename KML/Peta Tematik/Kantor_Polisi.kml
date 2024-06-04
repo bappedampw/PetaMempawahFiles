@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Kantorpolisi_Kantorpos_MEMPAWAH">
+  <name>Kantorpolisi_Kantorpos_MEMPAWAH</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.250000</scale>
+      <Icon><href>Layer0_Symbol_12bae070_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Kantorpolisi_Kantorpos_MEMPAWAH</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Hasil kegiatan pendatan toponimi oleh Provinsi Kalimantan Barat, update tahun 2021]]></description>
+    <Placemark id="ID_00000">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>51</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polsek</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Siantan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,206368</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,061482</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolsekSiantan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 12' 22.926" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 3' 41.336" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.20636841997,0.06148234423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Toponim Utilitas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Utilitas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>80</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Utilitas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Pos</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Jungkat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,192706</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,07114</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PosJungkat</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 33.742" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 4' 16.104" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.19270601297,0.07113987321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>180</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polsek</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Segedong</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,197776</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,154578</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolsekSegedong</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 11' 51.993" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 9' 16.481" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.19777585737,0.15457806073,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>353</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polsek</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,969858</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,324919</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolsekMempawah Timur</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 58' 11.488" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 19' 29.709" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96985770437,0.32491908924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>460</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polsek</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Anjongan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>109,163632</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,360639</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolsekAnjongan</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>109° 9' 49.075" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 38.299" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.16363188091,0.36063866174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>654</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polres</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,960663</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,358452</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolresMempawah</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 38.386" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 30.428" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96066287659,0.35845230283,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Toponim Utilitas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Utilitas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>663</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Utilitas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Pos</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,960779</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,361291</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PosMempawah Hilir</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 38.804" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 40.649" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.96077900245,0.3612913726,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>664</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polsek</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,957438</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,361707</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolsekMempawah Hilir</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 26.776" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 42.143" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.95743790773,0.36170652663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>690</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polres</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,960859</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,366508</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolresMempawah</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 57' 39.091" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 21' 59.430" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9608586608,0.36650836137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Toponim Pertahanan dan Keamanan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>781</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Pertahanan dan Keamanan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Polsek</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Semudun</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,936919</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,455479</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PolsekSemudun</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 56' 12.909" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 27' 19.724" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.93691906496,0.45547901085,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Toponim Utilitas</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Toponim Utilitas</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NOMOR</td>
+<td>819</td>
+</tr>
+<tr>
+<td>UNSUR</td>
+<td>Toponim Utilitas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAMA_LOKAL</td>
+<td>Kantor Pos</td>
+</tr>
+<tr>
+<td>NAMA_GEO</td>
+<td>Sungaikunyit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ARTI_NAMA</td>
+<td></td>
+</tr>
+<tr>
+<td>X</td>
+<td>108,910941</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Y</td>
+<td>0,499304</td>
+</tr>
+<tr>
+<td>KET</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Nama_Geo_2</td>
+<td>Kantor PosSungaikunyit</td>
+</tr>
+<tr>
+<td>x_geo</td>
+<td>108° 54' 39.389" E</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>y_geo</td>
+<td>0° 29' 57.494" N</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.91094149835,0.49930377815,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

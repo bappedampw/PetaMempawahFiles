@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Lembaga_keuangan">
+  <name>Lembaga_keuangan</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.250000</scale>
+      <Icon><href>Layer0_Symbol_b20ad40_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>Lembaga_keuangan</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Data toponimi lokasi lembaga-lembaga keuangan di Kabupaten Mempawah.Data diambil dari dokumen Riparda Kabupaten Mempawah]]></description>
+    <Placemark id="ID_00000">
+      <name>Bank Kalbar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank Kalbar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank Kalbar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Anjongan Melancar</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°9’56,4”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>9</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>56,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 21’42”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>42</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,165667</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,361667</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1656666666667,0.3616666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Bank BRI</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BRI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BRI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Anjongan Melancar</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°9’56”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>9</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 21’42,8”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>42,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,165556</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,361889</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1655555555556,0.3618888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Pegadaian Anjongan</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pegadaian Anjongan</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Pegadaian Anjongan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Anjongan Melancar</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Anjongan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°9’56”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>9</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>56</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 21’44,7”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>44,7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,165556</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,362417</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1655555555556,0.3624166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Credit Union (CU) Mabes</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Credit Union (CU) Mabes</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Credit Union (CU) Mabes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sepang</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°16’18,6”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>18,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°25’49,6”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>25</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>49,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,271833</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,430444</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2718333333333,0.4304444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Credit Union (CU) Pancur Kasih</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Credit Union (CU) Pancur Kasih</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Credit Union (CU) Pancur Kasih</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Pak Laheng</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Toho</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°13’34”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>13</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>34</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°25’3,2”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>25</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>3,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,226111</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,417556</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2261111111111,0.4175555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Bank BRI</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BRI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BRI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Semudun</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Kunyit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°56’19”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>56</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°27’4,6”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>27</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>4,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,938611</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,451278</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9386111111111,0.4512777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Pegadaian</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pegadaian</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Pegadaian</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Pasir Wan Salim</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Mempawah Timur</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°58’15,6”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>58</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>15,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°19’24,9”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>19</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>24,9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,971</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,323583</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.971,0.3235833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Credit Union (CU) Pancur Kasih</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Credit Union (CU) Pancur Kasih</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Credit Union (CU) Pancur Kasih</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Bumbun</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°6’25,2”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>6</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>25,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°33’49,6”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>33</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>49,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,107</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,563778</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.107,0.5637777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Credit Union Khatulistiwa Bhakti (CU-KB) TPK-Sanking</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Credit Union Khatulistiwa Bhakti (CU-KB) TPK-Sanking</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Credit Union Khatulistiwa Bhakti (CU-KB) TPK-Sanking</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Amawang</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°8’20,2”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>8</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>20,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°33’22,2”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>33</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>22,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,138944</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,556167</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1389444444444,0.5561666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Credit Union Maju Bersama (CU Mabes)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Credit Union Maju Bersama (CU Mabes)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Credit Union Maju Bersama (CU Mabes)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Pentek</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sadaniang</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°8’40,3”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>8</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>40,3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°32’51,4”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>32</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>51,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,144528</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,547611</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.1445277777778,0.547611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Credit Union (CU Pancur Kasih)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Credit Union (CU Pancur Kasih)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Credit Union (CU Pancur Kasih)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’27,3”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>27,3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’26,7”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>26,7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,07425</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,274083</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.07425,0.2740833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>Bank Kalbar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank Kalbar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank Kalbar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’28,4”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>28,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’35”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>35</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,074556</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,276389</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0745555555555,0.2763888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Koperasi Jasa Keuangan Syariah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Koperasi Jasa Keuangan Syariah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Koperasi Jasa Keuangan Syariah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’18,1”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>18,1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’44”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>44</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,071694</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,278889</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0716944444444,0.2788888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Pegadaian</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pegadaian</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Pegadaian</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’22,5”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>22,5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’43,3”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>43,3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,072917</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,278694</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0729166666667,0.2786944444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Bank BRI</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BRI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BRI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’28,3”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>28,3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’39,6”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>39,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,074528</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,277667</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0745277777778,0.2776666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Bank BCA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BCA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BCA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’28”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’36,7”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>36,7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,074444</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,276861</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0744444444444,0.2768611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>Bank Danamon</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank Danamon</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank Danamon</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’28”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’36,4”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>36,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,074444</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,276778</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0744444444444,0.2767777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Bank BNI</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BNI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BNI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’27,8”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>27,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’35,5”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>35,5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,074389</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,276528</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0743888888889,0.2765277777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>Pegadaian</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pegadaian</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Pegadaian</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’34,8”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>34,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’3,5”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>3,5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,076333</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,267639</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0763333333333,0.2676388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>BRI Unit</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BRI Unit</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>21</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>BRI Unit</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’37,5”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>37,5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’42,2”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>42,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,077083</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,278389</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0770833333333,0.2783888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Bank Mandiri</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank Mandiri</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank Mandiri</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’39,7”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>39,7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’40,7”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>40,7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,077694</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,277972</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0776944444444,0.2779722222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>BPR PAN</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>BPR PAN</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>BPR PAN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’42,2”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>42,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’39,2”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>39,2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,078389</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,277556</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0783888888889,0.2775555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00022">
+      <name>Unit Layanan Modal Mikro (UlaMM)</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Unit Layanan Modal Mikro (UlaMM)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Unit Layanan Modal Mikro (UlaMM)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Sungai Pinyuh</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°4’43,9”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>4</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>43,9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0° 16’38,4”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>16</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>38,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,078861</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,277333</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.0788611111111,0.2773333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00023">
+      <name>Bank BRI</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BRI</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BRI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Peniti Besar</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Segedong</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°12’4,8”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>12</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>4,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°9’37,5”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>9</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>37,5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,201333</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,160417</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2013333333333,0.1604166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00024">
+      <name>Kantor Bank BRI Cabang Jungkat</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kantor Bank BRI Cabang Jungkat</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Kantor Bank BRI Cabang Jungkat</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Jungkat</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Siantan</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>109°12’1,9”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>12</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>1,9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°3’55,4”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>3</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>55,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>109,200528</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,065389</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 109.2005277777778,0.06538888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00025">
+      <name>Bank BRI Cabang Mempawah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BRI Cabang Mempawah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BRI Cabang Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°57’40,6”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>57</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>40,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°21’52,8”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>52,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,961278</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,364667</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9612777777778,0.3646666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00026">
+      <name>Bank BRI Cabang Mempawah</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank BRI Cabang Mempawah</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank BRI Cabang Mempawah</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°57’40,6”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>57</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>40,6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°21’52,8”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>52,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,961278</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,364667</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9612777777778,0.3646666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00027">
+      <name>Bank Kalbar</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Bank Kalbar</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>27</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>29</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Bank Kalbar</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°57’41,4”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>57</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>41,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°21’51,0”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>51</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,9615</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,364167</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9615,0.3641666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00028">
+      <name>Kantor Pelayanan Pajak</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Kantor Pelayanan Pajak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>28</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Kantor Pelayanan Pajak</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°57’40,8”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>57</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>40,8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°21’49,3”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>49,3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,961333</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,363694</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9613333333333,0.3636944444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00029">
+      <name>Pegadaian</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Pegadaian</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>29</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>31</td>
+</tr>
+<tr>
+<td>Lembaga_Ke</td>
+<td>Pegadaian</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desa</td>
+<td>Terusan</td>
+</tr>
+<tr>
+<td>Kecamatan</td>
+<td>Mempawah Hilir</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT</td>
+<td>108°57’37,1”</td>
+</tr>
+<tr>
+<td>Derajat_BT</td>
+<td>108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_BT</td>
+<td>57</td>
+</tr>
+<tr>
+<td>detik_BT</td>
+<td>37,1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LU</td>
+<td>0°21’48,4”</td>
+</tr>
+<tr>
+<td>Derajat_LU</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>menit_LU</td>
+<td>21</td>
+</tr>
+<tr>
+<td>detik_LU</td>
+<td>48,4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BT_GEO</td>
+<td>108,960306</td>
+</tr>
+<tr>
+<td>LU_GEO</td>
+<td>0,363444</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 108.9603055555556,0.3634444444444444,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
